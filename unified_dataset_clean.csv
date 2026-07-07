@@ -1,4 +1,4 @@
-user_id,emotion,user_id.1,gaze_x,gaze_y,attention_time,emotion_score,engagement_score,trial_no,choice
+user_id,emotion,user_id.1,gaze_x,gaze_y,attention_time,emotion_score,engagement_score
 142,happy,1,172.0,159.0,1.6092100543,1.0,2.6092100543,,
 975,happy,2,725.0,316.0,2.8115526655,1.0,3.8115526655,,
 813,happy,3,545.0,197.0,3.3702567191,1.0,4.3702567191,,
