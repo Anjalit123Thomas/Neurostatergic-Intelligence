@@ -1,0 +1,27 @@
+1,1,A (Left),happy,5,6.0
+1,2,B (Right),neutral,5,5.5
+1,3,B (Right),sad,5,5.2
+1,4,A (Left),happy,5,6.0
+1,5,A (Left),sad,5,5.2
+1,6,B (Right),sad,5,5.2
+1,7,A (Left),sad,5,5.2
+1,8,B (Right),neutral,5,5.5
+1,9,A (Left),neutral,5,5.5
+3,1,A (Left),happy,5,6.0
+3,2,B (Right),sad,5,5.2
+3,3,B (Right),sad,5,5.2
+3,4,B (Right),neutral,5,5.5
+3,5,B (Right),neutral,5,5.5
+3,6,B (Right),happy,5,6.0
+3,7,B (Right),sad,5,5.2
+3,8,A (Left),happy,5,6.0
+3,9,B (Right),sad,5,5.2
+4,1,A (Left),sad,5,5.2
+4,2,A (Left),sad,5,5.2
+4,3,A (Left),happy,5,6.0
+4,4,A (Left),happy,5,6.0
+4,5,Neutral,neutral,5,5.5
+4,6,B (Right),neutral,5,5.5
+4,7,B (Right),happy,5,6.0
+4,8,A (Left),sad,5,5.2
+4,9,B (Right),sad,5,5.2
